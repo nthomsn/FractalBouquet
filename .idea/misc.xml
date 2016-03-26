@@ -38,19 +38,6 @@
       <property name="caretWidth" class="java.lang.Integer" />
     </properties>
   </component>
-  <component name="GradleLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="$PROJECT_DIR$/../proxy" value="1451529739607" />
-        <entry key="$PROJECT_DIR$/../rt" value="2903008868842" />
-        <entry key="$USER_HOME$/Servers/SpringBootPersonalSite" value="1452455843483" />
-        <entry key="$USER_HOME$/Servers/project-m-obile" value="8711745178350" />
-      </map>
-    </option>
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
